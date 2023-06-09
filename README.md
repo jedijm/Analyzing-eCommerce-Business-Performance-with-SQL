@@ -8,7 +8,7 @@ This stage is a fundamental before beginning the data processing. This stage pur
 2. Import the csv data into the database.
 3. Create the Entity Relationship Diagram (ERD) based on scheme in Fig 1. Data Relationship.
 
-![Data Relationship](D:/Rakamin Data Science/Job Acceleration/Analyzing eCommerce Business Performance with SQL/Data+Relationship.png)
+![Data Relationship](Figures/Data+Relationship.png)
 
 From the scheme above, the primary key and foreign key from columns of the table is defined to connect each of the tables in database. Then, the ERD can be generated as in Fig 2. 
-![ERD](D:/Rakamin Data Science/Job Acceleration/Analyzing eCommerce Business Performance with SQL/ERD.png)
+![ERD](Figures/ERD.png)
