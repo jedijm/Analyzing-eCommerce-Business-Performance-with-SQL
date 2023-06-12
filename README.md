@@ -13,11 +13,11 @@ This stage is a fundamental before beginning the data processing. This stage pur
 3. Create the Entity Relationship Diagram (ERD) based on scheme in Fig 1. Data Relationship.
 
 ![Data Relationship](Figures/Data+Relationship.png)
-<div style="text-align: center"> Fig 1. Data Relationship </div>
+<div style="text-align: center;"> Fig 1. Data Relationship </div>
 
 From the scheme above, the primary key and foreign key from columns of the table is defined to connect each of the tables in database. Then, the ERD can be generated as in Fig 2. 
 ![ERD](Figures/ERD.png)
-<div style="text-align: center"> Fig 2. Entity Relationship Diagram </div>
+<div style="text-align: center;"> Fig 2. Entity Relationship Diagram </div>
 
 ## Data Analysis
 In this stage, there are 3 metrics used:
