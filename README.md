@@ -22,4 +22,21 @@ From the scheme above, the primary key and foreign key from columns of the table
 ## Data Analysis
 In this stage, there are 3 metrics used:
 1. Annual Customer Activity Growth Analysis
-Annual Customer Activity Growth can be analyzed from Monthly Active User (MAU), total new customer, total customer with repeat order, average order.
+Annual Customer Activity Growth can be analyzed from:
+- **Monthly Active User (MAU)**
+- **total new customer**
+- **total customer with repeat order**
+- **average order of customer**
+
+![Result Table](Figures/Result Table.png)
+<div align="center"> Fig 3. Annual Customer Activity Growth Summary </div>
+
+![Result Table](Figures/MAU.png)
+<div align="center"> Fig 4. Monthly Active User (MAU) </div>
+
+![Result Table](Figures/TNC vs TROC.png)
+<div align="center"> Fig 5. Total New Customer & Total Repeat Order Customer </div>
+
+![Result Table](Figures/Average Order.png)
+<div align="center"> Fig 4. Monthly Active User (MAU) </div>
+
