@@ -29,9 +29,9 @@ Annual Customer Activity Growth can be analyzed from:
 - **Total Customer with Repeat Order**
 - **Average Order of customer**
 
-<div align="center"> 
-  ![Result Table](Figures/Result_Table.png)
-  Fig 3. Annual Customer Activity Growth Summary </div>
+
+<div align="center">  ![Result Table](Figures/Result_Table.png) </div>
+<div align="center"> Fig 3. Annual Customer Activity Growth Summary </div>
 
 ![MAU](Figures/MAU.png)
 <div align="center"> Fig 4. Monthly Active User (MAU) </div>
