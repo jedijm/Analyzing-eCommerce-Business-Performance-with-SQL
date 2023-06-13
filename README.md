@@ -37,10 +37,13 @@ Annual Customer Activity Growth can be analyzed from:
 
 ![MAU](Figures/MAU.png)
 <div align="center"> Fig 4. Monthly Active User (MAU) </div>
+Fig 4. shows a positive trend of Monthly Active User from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
 
 ![TNC vs TROC](Figures/TNCvsTROC.png)
 <div align="center"> Fig 5. Total New Customer & Total Repeat Order Customer </div>
+Fig 5. shows that both Total New Customer (TNC) and Total Repeat Order Customer (TROC) increased in 2016-2017 period, but there is a different trend in 2017-2018. TNC has a positive trend but conversely for the TROC.
 
 ![Avg Order](Figures/Average_Order.png)
 <div align="center"> Fig 6. Average Order </div>
+Fig 6. shows that the average order of customer is only 1, or that most of the customers don't do repeat order in 2016-208.
 
