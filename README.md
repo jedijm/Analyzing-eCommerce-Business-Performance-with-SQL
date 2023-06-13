@@ -34,7 +34,7 @@ Annual Customer Activity Growth can be analyzed from:
   <img src="https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Figures/Result_Table.png">
  </div>
 <div align="center"> Fig 3. Annual Customer Activity Growth Summary </div>
-<br>
+
 ![MAU](Figures/MAU.png)
 <div align="center"> Fig 4. Monthly Active User (MAU) </div>
 Fig 4. shows a positive trend of Monthly Active User from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
