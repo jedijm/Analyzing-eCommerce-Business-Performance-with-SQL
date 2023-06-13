@@ -45,5 +45,5 @@ Fig 5. shows that both Total New Customer (TNC) and Total Repeat Order Customer 
 
 ![Avg Order](Figures/Average_Order.png)
 <div align="center"> Fig 6. Average Order </div>
-Figure above shows that the average order of customer is only 1, or that most of the customers don't do repeat order in 2016-208.
+Figure above shows that the average order of customer is only 1, or that most of the customers don't do repeat order in 2016-2018 period.
 
