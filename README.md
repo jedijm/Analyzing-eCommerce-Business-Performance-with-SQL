@@ -30,7 +30,7 @@ Annual Customer Activity Growth can be analyzed from:
 - **Average Order of customer**
 
 
-<img align="center" src = "[![Result Table](Figures/Result_Table.png)](https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Figures/Result_Table.png)">
+<img align="center" src = "https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Figures/Result_Table.png">
 <div align="center"> Fig 3. Annual Customer Activity Growth Summary </div>
 
 ![MAU](Figures/MAU.png)
