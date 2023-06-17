@@ -64,7 +64,7 @@ Fig 8. shows positive trend for both metrics. Both metrics experienced the highe
 
 ![TRP](Figures/Top_Revenue_Product.png)
 <div align="center"> Fig 9. Top Revenue Product Category </div>
-Fig 9. shows product category with the highest revenue each year. in 2016, `furniture_decor` has the highest revenue for 7.189$, in 2017 `bed_bath_table` is the highest with 590.280$, meanwhile in 2018 the highest revenue is `health_beauty` category with 885,191$.
+Fig 9. shows product category with the highest revenue each year. in 2016, ```furniture_decor``` has the highest revenue for 7.189$, in 2017 `bed_bath_table` is the highest with 590.280$, meanwhile in 2018 the highest revenue is ` health_beauty ` category with 885,191$.
 
 ![TRP](Figures/Top_Canceled_Product.png)
 <div align="center"> Fig 10. Top Canceled Order Product Category </div>
