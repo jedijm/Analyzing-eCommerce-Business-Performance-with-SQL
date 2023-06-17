@@ -22,13 +22,12 @@ From the scheme above, the primary key and foreign key from columns of the table
 
 ## Data Analysis
 In this stage, there are 3 metrics used:
-1. Annual Customer Activity Growth Analysis
+### 1. Annual Customer Activity Growth Analysis
 Annual Customer Activity Growth can be analyzed from:
 - **Monthly Active User (MAU)**
 - **Total New Customer**
 - **Total Customer with Repeat Order**
 - **Average Order of customer**
-
 
 <div align="center"> 
   <img src="https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Figures/Result_Table.png">
@@ -37,13 +36,40 @@ Annual Customer Activity Growth can be analyzed from:
 
 ![MAU](Figures/MAU.png)
 <div align="center"> Fig 4. Monthly Active User (MAU) </div>
-Fig 4. shows a positive trend of Monthly Active User from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
+Fig 4. shows a positive trend of `Monthly Active User` from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
 
 ![TNC vs TROC](Figures/TNCvsTROC.png)
 <div align="center"> Fig 5. Total New Customer & Total Repeat Order Customer </div>
-Fig 5. shows that both Total New Customer (TNC) and Total Repeat Order Customer (TROC) increased in 2016-2017 period, but there is a different trend in 2017-2018. TNC has a positive trend but conversely for the TROC.
+Fig 5. shows that both `Total New Customer (TNC)` and `Total Repeat Order Customer (TROC)` increased in 2016-2017 period, but there is a different trend in 2017-2018. TNC has a positive trend but conversely for the TROC.
 
 ![Avg Order](Figures/Average_Order.png)
 <div align="center"> Fig 6. Average Order </div>
-Figure above shows that the average order of customer is only 1, or that most of the customers don't do repeat order in 2016-2018 period.
+Figure above shows that the `Average Order` of customer is only 1, or that most of the customers don't do repeat order in 2016-2018 period.
+
+### 2. Annual Product Category Quality Analysis
+The metrics used in annual product category quality analysis are:
+- Total Revenue
+- Total Canceled Order
+- Top Revenue Product Category
+- Top Canceled Order Product Category
+
+<div align="center"> 
+  <img src="https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Figures/Summary_Product_Quality.png">
+ </div>
+<div align="center"> Fig 7. Annual Product Category Quality Summary </div>
+
+![TRTC](Figures/Top_Revenue_Top_Canceled.png.png)
+<div align="center"> Fig 8. Total Revenue & Total Canceled Order </div>
+Fig 8. shows positive trend for both metrics. Both metrics experienced the highest rise in 2017 and a little lower in 2018.
+
+![TRP](Figures/Top_Revenue_Product.png)
+<div align="center"> Fig 9. Top Revenue Product Category </div>
+Fig 9. shows product category with the highest revenue each year. in 2016, `furniture_decor` has the highest revenue for 7.189$, in 2017 `bed_bath_table` is the highest with 590.280$, meanwhile in 2018 the highest revenue is `health_beauty` category with 885,191$.
+
+![TRP](Figures/Top_Canceled_Product.png)
+<div align="center"> Fig 10. Top Canceled Order Product Category </div>
+Fig 10. shows product category with the highest canceled order each year. in 2016, `toys` has the highest canceled for 3 orders, in 2017 `sport_leisure` is the highest with 25 orders, meanwhile in 2018 the highest revenue is `health_beauty` category with 27 orders.
+
+
+
 
