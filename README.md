@@ -58,7 +58,7 @@ The metrics used in annual product category quality analysis are:
  </div>
 <div align="center"> Fig 7. Annual Product Category Quality Summary </div>
 
-![TRTC](Figures/Top_Revenue_Top_Canceled.png.png)
+![TRTC](Figures/Top_Revenue_Top_Canceled.png)
 <div align="center"> Fig 8. Total Revenue & Total Canceled Order </div>
 Fig 8. shows positive trend for both metrics. Both metrics experienced the highest rise in 2017 and a little lower in 2018.
 
