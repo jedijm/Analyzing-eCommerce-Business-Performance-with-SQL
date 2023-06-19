@@ -23,6 +23,7 @@ From the scheme above, the primary key and foreign key from columns of the table
 ## Data Analysis
 In this stage, there are 3 metrics used:
 <br>
+<br>
 ### 1. **Annual Customer Activity Growth Analysis**
 Annual Customer Activity Growth can be analyzed from:
 - **Monthly Active User (MAU)**
@@ -37,9 +38,10 @@ Annual Customer Activity Growth can be analyzed from:
 
 ![MAU](Figures/MAU.png)
 <div align="center"> Fig 4. Monthly Active User (MAU) </div>
-Fig 4. shows a positive trend of *Monthly Active User* from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
+Fig 4. shows a positive trend of _Monthly Active User_ from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
 <br>
 <br>
+
 ![TNC vs TROC](Figures/TNCvsTROC.png)
 <div align="center"> Fig 5. Total New Customer & Total Repeat Order Customer </div>
 Fig 5. shows that both Total New Customer (TNC) and Total Repeat Order Customer (TROC) increased in 2016-2017 period, but there is a different trend in 2017-2018. TNC has a positive trend but conversely for the TROC. 
@@ -66,15 +68,18 @@ The metrics used in annual product category quality analysis are:
 <div align="center"> Fig 8. Total Revenue & Total Canceled Order </div>
 Fig 8. shows positive trend for both metrics. The revenue and canceled order experienced the highest rise in 2017 and a little lower in 2018.
 <br>
+<br>
 
 ![TRP](Figures/Top_Revenue_Product.png)
 <div align="center"> Fig 9. Top Revenue Product Category </div>
 Fig 9. shows product category with the highest revenue each year. in 2016, furniture_decor has the highest revenue for 7.189$, in 2017 bed_bath_table is the highest with 590.280$, meanwhile in 2018 the highest revenue is health_beauty category with 885,191$.
 <br>
+<br>
 
 ![TRP](Figures/Top_Canceled_Product.png)
 <div align="center"> Fig 10. Top Canceled Order Product Category </div>
 Fig 10. shows product category with the highest canceled order each year. in 2016, toys has the highest canceled for 3 orders, in 2017 sport_leisure is the highest with 25 orders, meanwhile in 2018 the highest revenue is health_beauty category with 27 orders.
+<br>
 <br>
 
 ### 3. Annual Payment Type Usage Analysis
