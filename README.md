@@ -1,5 +1,6 @@
 # **Analyzing eCommerce Business Performance with SQL**
 Dataset : [Ecommerce Dataset](https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/tree/master/Dataset) - Rakamin Academy 
+<br>
 Tools : PostgreSQL & Tableau Public
 
 
@@ -37,11 +38,14 @@ Annual Customer Activity Growth can be analyzed from:
 ![MAU](Figures/MAU.png)
 <div align="center"> Fig 4. Monthly Active User (MAU) </div>
 Fig 4. shows a positive trend of *Monthly Active User* from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
-<br/>
+<br>
+<br>
 ![TNC vs TROC](Figures/TNCvsTROC.png)
 <div align="center"> Fig 5. Total New Customer & Total Repeat Order Customer </div>
 Fig 5. shows that both Total New Customer (TNC) and Total Repeat Order Customer (TROC) increased in 2016-2017 period, but there is a different trend in 2017-2018. TNC has a positive trend but conversely for the TROC. 
 <br>
+<br>
+
 ![Avg Order](Figures/Average_Order.png)
 <div align="center"> Fig 6. Average Order </div>
 Figure above shows that the *Average Order* of customer is only 1, or that most of the customers don't do repeat order in 2016-2018 period.
@@ -62,14 +66,17 @@ The metrics used in annual product category quality analysis are:
 <div align="center"> Fig 8. Total Revenue & Total Canceled Order </div>
 Fig 8. shows positive trend for both metrics. The revenue and canceled order experienced the highest rise in 2017 and a little lower in 2018.
 <br>
+
 ![TRP](Figures/Top_Revenue_Product.png)
 <div align="center"> Fig 9. Top Revenue Product Category </div>
 Fig 9. shows product category with the highest revenue each year. in 2016, furniture_decor has the highest revenue for 7.189$, in 2017 bed_bath_table is the highest with 590.280$, meanwhile in 2018 the highest revenue is health_beauty category with 885,191$.
 <br>
+
 ![TRP](Figures/Top_Canceled_Product.png)
 <div align="center"> Fig 10. Top Canceled Order Product Category </div>
 Fig 10. shows product category with the highest canceled order each year. in 2016, toys has the highest canceled for 3 orders, in 2017 sport_leisure is the highest with 25 orders, meanwhile in 2018 the highest revenue is health_beauty category with 27 orders.
 <br>
+
 ### 3. Annual Payment Type Usage Analysis
 
 <div align="center"> 
@@ -77,6 +84,7 @@ Fig 10. shows product category with the highest canceled order each year. in 201
  </div>
 <div align="center"> Fig 11. Annual Payment Method Usage Summary </div>
 <br>
+
 ![ap](Figures/annual_payment.png)
 <div align="center"> Fig 12. Annual Total Payment Method Usage </div>
 Fig 12. describes the annual total payment method usage from 2016-2018. It can be seen that every methods have a positive trend except for the voucher that decreased a little in 2018. The most used payment method is credit card and the least is debit card. It needs a deeper analysis from business team to understand the pattern.
