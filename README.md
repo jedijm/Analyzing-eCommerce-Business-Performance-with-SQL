@@ -1,6 +1,5 @@
 # **Analyzing eCommerce Business Performance with SQL**
 Dataset : [Ecommerce Dataset](https://github.com/jedijm/Analyzing-eCommerce-Business-Performance-with-SQL/tree/master/Dataset) - Rakamin Academy 
-<br>
 Tools : PostgreSQL & Tableau Public
 
 
